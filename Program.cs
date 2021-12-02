@@ -56,8 +56,9 @@ namespace LR3_1_
                 }
                 Console.WriteLine("\n************");
             }
-
-
+            Console.ReadKey();
+            //_______________________________
+            ;
             Console.ReadKey();
 
             for (int i = 0; i < sizeA; i++)
